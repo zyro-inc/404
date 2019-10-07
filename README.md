@@ -1,12 +1,21 @@
 # 404
 
-used parcel js minify:
+## used parcel js minify:
 
+## installs parcel globally
+```
 npm i -g parcel
-(installs parcel globally)
 
+```
+
+## serves and watches changes
+```
 npx parcel index.html
-(serves and watches changes)
 
+```
+
+## builds the file
+```
 npx parcel build index.html
-(builds the file)
+
+```
