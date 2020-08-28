@@ -1,4 +1,6 @@
-# 404
+# 500
+
+This page should be displayed during frontends 5xx errors instead of nginx error message.
 
 ## used parcel js minify:
 
