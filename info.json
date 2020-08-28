@@ -1,8 +1,8 @@
-[  
+[
     {
-        "id": "zyro_404", 
-        "site_id": "zyro_404", 
-        "name": "zyro_404", 
+        "id": "zyro_500",
+        "site_id": "zyro_500",
+        "name": "zyro_500",
         "path": "index.html",
         "order":  1
     }
